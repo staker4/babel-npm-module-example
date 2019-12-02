@@ -2,6 +2,8 @@
 
 > A boilerplate to start writing your NPM modules in ES6 using Babel.
 
+[![Build Status](https://dev.azure.com/rtiefengraber400/lab3/_apis/build/status/staker4.babel-npm-module-example?branchName=master)](https://dev.azure.com/rtiefengraber400/lab3/_build/latest?definitionId=2&branchName=master)
+
 ## Install
 
 ```
