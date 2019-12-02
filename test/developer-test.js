@@ -12,7 +12,7 @@ describe('developer tests', () => {
   after(() => developer = undefined);
 
   it('getName', () => {
-    expect(developer.getName()).to.equal('Ale');
+    expect(developer.getName()).to.equal('Alex');
   });
 
   it('getAge', () => {
